@@ -8,7 +8,7 @@
 
 ---
 
-## 🎓 Education  
+## Education  
 **Helwan University** — Bachelor of Engineering  
 *Communication and Computer Department*  
 - Overall Grade: Good  
@@ -17,7 +17,7 @@
 
 ---
 
-## 💼 Experience  
+## Experience  
 
 ### Information Technology Institute (ITI) — Intern  
 *Dec 2024 – Mar 2025*  
@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Technical Skills  
+## Technical Skills  
 
 - **Programming Languages:** C, C++, Java, Python, SQL  
 - **Cloud & DevOps:** AWS, Terraform, Kubernetes, Docker, Helm, Ansible, SonarQube, GitHub Actions, Jenkins  
@@ -63,7 +63,7 @@
 
 ---
 
-## 📂 Projects  
+## Projects  
 
 ### Serverless Lottery System (AWS & Terraform)  
 - Built a serverless raffle system using AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, Route 53, ACM  
@@ -80,7 +80,7 @@
 
 ---
 
-## 🎓 Courses  
+## Courses  
 - Cisco Cybersecurity, NTI (Aug 2022 – Sep 2022)  
 - Algorithms Analysis & Design – Cloud Native Base Camp  
 - Data Structures Decode – Cloud Native Base Camp  
@@ -88,14 +88,14 @@
 
 ---
 
-## 👥 Activities  
+## Activities  
 **Pixels – Helwan University**  
 - HR member responsible for tracking task progress and team coordination  
 *Oct 2023 – Apr 2024*  
 
 ---
 
-## 📜 Certificates  
+## Certificates  
 - Oracle Certified Foundations Associate  
 - AWS Certified Cloud Practitioner (CLF-C02)  
 
